@@ -6,19 +6,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Fetch and XMLHtttpReques</title>
+  <style>
+    .result {
+      display: flex;
+    }
+
+    .result__title {
+      font-size: 30px;
+      text-decoration: underline;
+      color: crimson;
+    }
+  </style>
 </head>
 
 <body>
-  <div class="fetch">
-    <h2>Fetch</h2>
-    <div class="fetch-result"></div>
-  </div>
+  <div class="result">
+    <div class="fetch">
+      <h2 class="result__title">Fetch</h2>
+      <div class="fetch-result"></div>
+    </div>
 
-  <div class="xml">
-    <h2>XMLHttpRequest</h2>
-    <div class="xml-result"></div>
+    <div class="xml">
+      <h2 class="result__title">XMLHttpRequest</h2>
+      <div class="xml-result"></div>
+    </div>
   </div>
-
   <script src="fetch.js"></script>
   <script src="XMLHttp.js"></script>
 </body>
