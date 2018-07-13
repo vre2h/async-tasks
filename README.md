@@ -10,6 +10,7 @@ Send request to server and get List of Users then using UserId's send another re
 
 - [Ilya Kantor's post about async in JS](https://javascript.info/async)
 - [Dr. Rauschmayer's post about Promise API](http://2ality.com/2014/10/es6-promises-api.html)
+- [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/onreadystatechange)
 
 ## Solution
 
