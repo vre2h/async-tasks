@@ -13,7 +13,7 @@ Send request to server and get List of Users then using UserId's send another re
 
 ## Solution
 
-You can find two identical examples of solving task:
+You can find two solutions:
 
 - [Using Fetch](src/fetch.js)
 - [Using XMLHttpRequest](src/XMLHttp.js)
