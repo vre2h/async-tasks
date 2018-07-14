@@ -12,7 +12,7 @@ You can find two solutions:
 
 - [Using Fetch](src/fetchVSxml/fetch.js)
 - [Using XMLHttpRequest](src/fetchVSxml/XMLHttp.js)
-- [Using Async/Await](src/async-await/index.js)
+- [Using Async/Await](src/fetchVSxml/async-await/index.js)
 
 ---
 
