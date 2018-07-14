@@ -16,5 +16,5 @@ Send request to server and get List of Users then using UserId's send another re
 
 You can find two solutions:
 
-- [Using Fetch](src/fetch.js)
-- [Using XMLHttpRequest](src/XMLHttp.js)
+- [Using Fetch](src/fetchVSxml/fetch.js)
+- [Using XMLHttpRequest](src/fetchVSxml/XMLHttp.js)
