@@ -1,4 +1,4 @@
-# Task for understanding Promises and Get Requests
+# Tasks for understanding Promises and Get Requests
 
 ## Task 1
 
