@@ -17,7 +17,7 @@ You can find two solutions:
 
 ## Task 2
 
-[You can find description of task here](https://javascript.info/promise-api#fault-tolerant-promise-all)
+[You can find description of task here](https://javascript.info/task/promise-errors-as-results-2)
 
 ## My solution
 
